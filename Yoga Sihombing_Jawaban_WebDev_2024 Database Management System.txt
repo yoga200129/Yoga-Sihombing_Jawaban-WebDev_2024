@@ -1,3 +1,8 @@
+CREATE DATABASE WebDev;
+
+USE WebDev;
+
+
 #1 
 
 CREATE TABLE Employee (
